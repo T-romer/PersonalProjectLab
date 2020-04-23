@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KE of F-16 jet/1.0.0": {
+        "runtime": {
+          "KE of F-16 jet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KE of F-16 jet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

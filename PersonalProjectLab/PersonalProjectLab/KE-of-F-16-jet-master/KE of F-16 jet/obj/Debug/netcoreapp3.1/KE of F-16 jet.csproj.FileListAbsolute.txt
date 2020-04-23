@@ -1,0 +1,11 @@
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\bin\Debug\netcoreapp3.1\KE of F-16 jet.exe
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\bin\Debug\netcoreapp3.1\KE of F-16 jet.deps.json
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\bin\Debug\netcoreapp3.1\KE of F-16 jet.runtimeconfig.json
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\bin\Debug\netcoreapp3.1\KE of F-16 jet.runtimeconfig.dev.json
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\bin\Debug\netcoreapp3.1\KE of F-16 jet.dll
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\bin\Debug\netcoreapp3.1\KE of F-16 jet.pdb
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\obj\Debug\netcoreapp3.1\KE of F-16 jet.AssemblyInfoInputs.cache
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\obj\Debug\netcoreapp3.1\KE of F-16 jet.AssemblyInfo.cs
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\obj\Debug\netcoreapp3.1\KE of F-16 jet.dll
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\obj\Debug\netcoreapp3.1\KE of F-16 jet.pdb
+C:\Users\timot\source\repos\KE of F-16 jet\KE of F-16 jet\obj\Debug\netcoreapp3.1\KE of F-16 jet.csprojAssemblyReference.cache
